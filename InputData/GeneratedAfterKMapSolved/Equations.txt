@@ -1,0 +1,10 @@
+a = 1
+b = AB + A'DE + BCE + BCD + A'B'C'D + B'CD'E' + AC'D'E
+c = AB'D + A'C'D' + ACE + B'CDE' + A'BC'E' + A'BD'E' + AB'C'E'
+d = BD + BC + C'DE' + AC'D' + A'B'C' + CDE + A'CD'E'
+e = BCE + ABD + A'B'CD + B'CDE' + AB'C'E + AB'D'E + A'C'D'E'
+f = A'C'D + A'B'E' + B'C'E' + ACE + ABD' + A'CD'E'
+g = A'DE + BC'D + ACD + ABE + A'BC'E' + AB'C'D'
+h = A'B'DE' + B'CDE' + BCD'E' + BCDE + ABD'E'
+i = AC'D' + BC'DE' + A'B'C'DE
+j = AC'D'E + A'BC'DE'
